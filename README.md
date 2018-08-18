@@ -1,2 +1,3 @@
 # minishift-sandbox
 anothertest
+sslFalse
