@@ -1,3 +1,1 @@
 # minishift-sandbox
-anothertest
-fds
