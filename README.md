@@ -1,3 +1,3 @@
 # minishift-sandbox
 anothertest
-sslFalse
+asdf
